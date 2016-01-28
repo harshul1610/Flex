@@ -1,3 +1,6 @@
+## 1.1-Fish  (My personal changes to Flex)
+- |updated  URL scheme in templates base, index and article
+
 ## 1.1
 
 - [Allow custom CSS stylesheets to override the default one](https://github.com/alexandrevicenzi/Flex/pull/9)
