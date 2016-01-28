@@ -32,7 +32,7 @@ Or you can take a look at [Flex users](https://github.com/alexandrevicenzi/Flex/
 
 I'm using Flex in my [personal blog](http://blog.alexandrevicenzi.com/).
 
-![Screenshot](https://github.com/alexandrevicenzi/Flex/blob/master/screenshot.png)
+![Screenshot](https://github.com/callmefish/Flex/blob/master/screenshot.png)
 
 ## Changelog
 
