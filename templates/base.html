@@ -44,7 +44,7 @@
         {% if SITELOGO %}
         <img src="{{ SITELOGO }}" alt="{{ SITETITLE }}" title="{{ SITETITLE }}">
         {% else %}
-        <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/img/profile.png" alt="{{ SITETITLE }}" title="{{ SITETITLE }}">
+        <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/img/logo.jpg" alt="{{ SITETITLE }}" title="{{ SITETITLE }}">
         {% endif %}
       </a>
       <h1><a href="{{ SITEURL }}">{{ SITETITLE }}</a></h1>
@@ -52,7 +52,7 @@
       <nav>
         <ul class="list">
           {% for page in pages|sort(attribute='title') %}
-          <li><a href="{{ SITEURL }}/{{ page.url }}#{{ page.slug }}">{{ page.title }}</a></li>
+          <li><a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a></li>
           {% endfor %}
           {% for name, link in LINKS %}
           <li><a href="{{ link }}" target="_blank">{{ name }}</a></li>
