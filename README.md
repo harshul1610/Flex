@@ -30,7 +30,7 @@ A minimalist [Pelican](http://blog.getpelican.com/) theme.
 You can see how things looks like [here](http://gnotc.com).
 Or you can take a look at [Flex users](https://github.com/alexandrevicenzi/Flex/wiki/Flex-users).
 
-I'm using Flex in my [personal blog](http://blog.alexandrevicenzi.com/).
+I'm using Flex in my [personal blog](http://gnotc.com).
 
 ![Screenshot](https://github.com/callmefish/Flex/blob/master/screenshot.png)
 
@@ -38,11 +38,6 @@ I'm using Flex in my [personal blog](http://blog.alexandrevicenzi.com/).
 
 [Click here](./CHANGELOG.md)
 
-## Donate
-
-Did you liked? Buy me a coffee.
-
-[![Gratipay](https://img.shields.io/gratipay/JSFiddle.svg?style=flat-square)](https://gratipay.com/~alexandrevicenzi/)
 
 ## License
 
